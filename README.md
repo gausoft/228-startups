@@ -80,7 +80,7 @@
 - Woelab
 - Africa Coworkers
 - Afristack
-- 
+- Ghil
 
 ## Ressources
 - https://afrotribune.com/togo-10-startups-a-surveiller-2018/
