@@ -47,28 +47,29 @@
 
 | Nom | Description | Site web | Liens |
 |----------|:-------------:|------:|:----| 
-| **OkpaFaces** | ... | ... | x |
+| **OkpaFaces** | Développement des solutions éducatives web et mobiles au grand public et sur mesure. |http://www.okpafaces.com| x |
 | **BiDif** | ... | ... | x |
 | **Civic bag**| ... | ... | x |
 | **Togo RECYCLING**| ... | ... | x |
-| **Nativ**| ... | ... | x |
-| **Urbanattic**| ... | ... | x |
-| **SCoPE**| ... | ... | x |
+| **Nativ**| Agence de communication visant à pousser l'Afrique dans la course à la digitalisation. | https://nativ.woelab.tg | x |
+| **Urbanattic**| Startup en biotechnologie proposant de mettre à profit les espaces délaissés dans les milieux urbains pour en faire des jardins bios où sont cultivés fruits, légumes etc.| ... | https://twitter.com/urbanattic_ |
+| **SCoPE**| Startup qui veut connecter de façon efficace et efficiente le problème des déchets plastiques aux solutions existantes dans un contexte où le tri sélectif n’est pas appliqué. | ... | https://twitter.com/we_SCoPE |
 | **ORASTEC**| ... | ... | x |
 | **JetSolutions**| ... | ... | x |
-| **Suisco**| ... | ... | x |
-| **Zonoa**| ... | ... | x |
+| **Suisco**| SuiSco vise l’amélioration des modes de communication entre l’école, la famille et les apprenants en utilisant le canal des nouvelles technologies en vue de faciliter la gestion collégiale de la vie scolaire et universitaire.| http://www.suisco.net | x |
+| **Zonoa**| ... | https://zonoa.net | x |
 | **DCN Technologies**| ... | ... | x |
 | **BigApp**| ... | ... | x |
 | **Nutata**| ... | ... | x |
 | **DashMake**| ... | ... | x |
-| **Open SDF**| ... | ... | x |
-| **Soja Invest**| ... | ... | x |
+| **Open SDF**| Startup dans la prestation de services numériques axés à 100% sur des solutions libres (open-source) à l'endroit des entreprises & des particuliers. | https://opensdf.tk/ | https://twitter.com/OpenSDF228 |
 | **Soja Invest**| ... | ... | x |
 | **Fortitude Vision**| ... | ... | x |
 | **Top Fournituresn Services**| ... | ... | x |
-| **LITO GROUP**| ... | ... | x |
-
+| **LITO GROUP**| Une agence offrant des services en communication, développement d'applications, commerce, éducation, etc. | ... | x |
+| **Maji Technologies**| ... | ... | x |
+| ** x **| ... | ... | x |
+| ** **| ... | ... | x |
 
 ## Startup dans le domaine du numérique
     
@@ -80,3 +81,5 @@
 - OIF
 - Innov'up
 - Cube
+- Ecohub
+- Djanta Tech Hub
