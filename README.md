@@ -101,6 +101,8 @@
 | **Urbanattic**| Startup en biotechnologie proposant de mettre à profit les espaces délaissés dans les milieux urbains pour en faire des jardins bios où sont cultivés fruits, légumes etc.| ... | https://twitter.com/urbanattic_ |
 
 # Etra
+| Nom | Description | Site web | Liens |
+|----------|:-------------:|------:|:----| 
 | **LITO GROUP**| Une agence offrant des services en communication, développement d'applications, commerce, éducation, etc. | ... | x |
     
 ## Les Incubateurs de startups
