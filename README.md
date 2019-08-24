@@ -9,7 +9,7 @@
 * [Agriculture](#agriculture)
 * [Commerce](#commerce)
 * [FinTech](#fintech)
-* [Education](#deucation)
+* [Éducation](#education)
 * [Informatique/Digital](#informatique)
 * [Justice](#justice)
 * [Santé](#santé)
@@ -43,9 +43,10 @@
 
 <div id='education'/>
 
-# Education
+# Éducation
 | Nom | Description | Site web | Liens |
 |----------|:-------------:|------:|:----| 
+| **OpenCode Academy** | L'école libre de @woelab visant à préparer les enfants à la #RevolutionNumérique au travers de cours, formations et #hackathons. |http://www.oca.woelab.tg| x |
 | **OkpaFaces** | Développement des solutions éducatives web et mobiles au grand public et sur mesure. |http://www.okpafaces.com| x |
 | **Suisco**| SuiSco vise l’amélioration des modes de communication entre l’école, la famille et les apprenants en utilisant le canal des nouvelles technologies en vue de faciliter la gestion collégiale de la vie scolaire et universitaire.| http://www.suisco.net | x |
 | **Zonoa**| ... | https://zonoa.net | x |
@@ -123,5 +124,11 @@
 - Energy Generation
 - 
 
+## Communautés
+- **Libra Web** : Libraweb Togo est une association de promotion numérique à la base et dont les objectifs sont de -créer et renfoncer les liens de fraternités entre les jeunes - Aider la jeunesse...
+- **Opendata Tg** : Lutter pour un accès de tous à l'information.
+- **Minodoo** : Fabrique d'innovations sociales, communauté de co-workers, tiers-lieu nomade au Togo, http://minodoo.com/
+- **OSM Togo**
+- GDG Lome
 # Espace de Coworking
 - Tempo Coworking Space
