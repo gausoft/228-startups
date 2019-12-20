@@ -111,24 +111,30 @@
 
 <div id='incubateurs'/>
 
-## Les Incubateurs de startups
-- Woelab 
-- Africa Coworkers
-- Afristack
-- Ghiyada Africa (Incubation sociale)
+## Les Incubateurs & Accélérateurs de startups
+- [Woelab](https://www.woelab.tg) 
+- [Africa Coworkers](https://africacoworkers.org)
+- [Afristack](https://afristack.co)
+- [Ghiyada Africa](http://ghiyadaafrica.org/ "Incubation sociale")
 - OIF
-- Innov'up
-- Cube
-- Ecohub
-- Djanta Tech Hub
-- Energy Generation
+- [Innov'up](http://www.innovup.fefa.tg)
+- [Cube](http://cubenter.com)
+- [Ecohub](http://www.ecohub.tg)
+- [Djanta Tech Hub](https://djantahub.tg/)
+- [Energy Generation](https://www.energy-generation.org)
+- [Le FNFI](https://fnfi.tg/)
+- [L’ANPGF](https://anpgftogo.org/)
+- [FAIEJ](https://www.faiej.tg/)
+- [PRADEB](http://devbase.gouv.tg/)
+- [Female TechCamp TOGO](http://femaletechcamptogo.org)
 - 
-
 ## Communautés
 - **Libra Web** : Libraweb Togo est une association de promotion numérique à la base et dont les objectifs sont de -créer et renfoncer les liens de fraternités entre les jeunes - Aider la jeunesse...
 - **Opendata Tg** : Lutter pour un accès de tous à l'information.
 - **Minodoo** : Fabrique d'innovations sociales, communauté de co-workers, tiers-lieu nomade au Togo, http://minodoo.com/
 - **OSM Togo**
-- GDG Lome
+- [**GDG Lome**](https://www.meetup.com/fr-FR/GDG-Lome)
 # Espace de Coworking
-- Tempo Coworking Space
+- [Tempo Coworking Space](https://www.tempo-coworking.com)
+- [Minodoo](http://minodoo.com/)
+- [Africa coworkers](https://africacoworkers.org)
