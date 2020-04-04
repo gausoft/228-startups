@@ -5,7 +5,7 @@
 
 🖖🏿 Tout ce qui est écrit ci dessous viens de mes connaissances et quelques recherches sur les réseaux sociaux. Je ne suis ni un professionel ni un expert, mais un passioné 🤓. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté.
 
-# Catégories
+# Domaines
 * [Agriculture](#agriculture)
 * [Commerce](#commerce)
 * [FinTech](#fintech)
