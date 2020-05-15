@@ -30,7 +30,7 @@
 | Site web | Description |
 | ----------------------- | ------------------ |
 | [e-Agribusiness](https://e-agribusiness.tg)|  Plateforme de mise en relation des acteurs du secteur agricole pour désenclaver certains agriculteurs. |
-| [AGRIBUSINESS DATA](https://agribusinessdata.com)| Plateforme numérique de collecte, de traitement et d’analyse de données dans le domaine agricole. |
+| [Agribusiness Data](https://agribusinessdata.com)| Plateforme numérique de collecte, de traitement et d’analyse de données dans le domaine agricole. |
 | [AgriCol](https://www.facebook.com/AgriColFinance)| Plateforme de mise en relation des petits exploitants agricoles avec les investisseurs. |
 | [Urbanattic](https://twitter.com/urbanattic_)| Une plateforme qui promeut l'agriculture biologique urbaine de proximité en mettant un accent sur la technologie pour optimiser la production. |
 | [Choco Togo](https://www.chocotogo.com)| Start-up spécialisée dans la production du chocolat bio en mettant en avant les méthodes traditionnelles !|
@@ -45,21 +45,22 @@
 <div id='commerce'/>
 
 # Commerce
-| Nom | Description |
+| Site web | Description |
 |------------|----------|
 |[CarAsigbe](https://www.semoa-group.com)| Premier portail de petites annonces automobiles |
-
+|[G-F corporation](http://gfcorporation.co/)| GF Corporation, est une entreprise qui vous forme sur le Trading, comment devenir trader et savoir détecter les GF Signaux. sans oublier les offres d'investissements et de Gérance de portefeuille. |
+|[GF Store](https://gfstore.online)| GF STORE est un service e-commerce de la GF CORPORATION  |
 <div id='fintech'/>
 
 # FinTech
-| Nom | Description |
+| Site web | Description |
 |------------|----------|
 |[Semoa-Togo](https://www.semoa-group.com)| Semoa-Togo: le premier site de recharge de crédit en ligne au Togo |
 
 <div id='foodtech'/>
 
 # FoodTech
-| Nom | Description
+| Site web | Description
 | ---------- | ------------- | 
 | [Kaba](http://www.kaba-delivery.com/)| KABA Delivery est une startup de Livraison de menus restaurants à la demande à Lomé et ses environs.|
 | [Delivroum](https://delivroum.com)| Première plateforme de livraison de repas à la demande dans la capitale Togolaise|
@@ -71,7 +72,7 @@
 <div id='education'/>
 
 # Éducation
-| Nom | Description
+| Site web | Description
 |----------|-------------| 
 |[OpenCode Academy](http://www.oca.woelab.tg) | L'école libre de @woelab visant à préparer les enfants à la #RevolutionNumérique au travers de cours, formations et #hackathons. |
 |[OkpaFaces](http://www.okpafaces.com) | Développement des solutions éducatives web et mobiles au grand public et sur mesure. |
@@ -86,12 +87,11 @@
 <div id='informatique' />
 
 # Digital
-| Nom | Description
+| Site web | Description
 |----------|------------| 
-|[BiDif]() | Prestation de services en développement web et mobile.|
-|[DCN Technologies]()| Prestation de services en développement web et mobile. |
-|[ORASTEC]()| Prestation de services en développement web et mobile. |
-|[Nutata]()| Agence dans le domaine de la communication digitale. |
+|[BiDif](https://www.facebook.com/pg/bidifofficial) | Prestation de services en développement web et mobile.|
+|[DCN Technologies](https://www.facebook.com/dcntechnologies)| Prestation de services en infromatique. |
+|[Nutata](https://www.noutataa.com)| Agence dans le domaine de la communication digitale. |
 |[Open SDF](https://opensdf.tk)| Startup dans la prestation de services numériques axés à 100% sur des solutions libres (open-source) à l'endroit des entreprises & des particuliers. |
 | [Nativ](https://nativ.woelab.tg/) | Startup de prestation de services en informatique (Stratégie & Stimulation Numérique) |
 | [Pimpio studio](https://twitter.com/LimpioStudio) | Studio de conception de jeux vidéos  auteur du premier #JeuVidéo togolais #TheBoyInSavannah |
@@ -103,7 +103,7 @@
 <div id='justice'/>
 
 # Justice
-<!-- | Nom | Description |
+<!-- | Site web | Description |
 |----------|------------| -->
 
 <div id='sante'/>
@@ -111,7 +111,7 @@
 # Santé
 > Les startups qui opèrent dans le secteur de la santé
 
-| Nom | Description |
+| Site web | Description |
 |----------|:-------------:| 
 | [SOS-System](https://twitter.com/sossystem2)| Système de signalisation, géolocalisation et gestion des sinistrateurs & conseiller en santé.  |
 | [eConvivial](https://www.econvivial.org/)|Application en eSanté au Togo offrant l'Assistance en ligne, le suivi du Cycle Menstruel, de la Contraception et de la Grossesse et la Consultation en ligne |
@@ -123,13 +123,13 @@
 <div id='tourisme'/>
 
 # Tourisme
-<!-- | Nom | Description | Site web | Liens |
+<!-- | Site web | Description | Site web | Liens |
 |----------|:-------------:|------:|:----|  -->
 
 <div id='transport'/>
 
 # Transport
-| Nom | Description
+| Site web | Description |
 |----------|-------------|
 | [Gozem](https://gozem.co) | Gozem est une plateforme technologique de transport (auto, moto, tricylces) pour l'Afrique occidentale et centrale francophone. |
 
@@ -137,11 +137,11 @@
 <div id='urbanisme'/>
 
 # Urbanisme
-| Nom | Description
+| Site web | Description
 |----------|-------------|
 |[Civic bag]()| CivicBag est spécialisé dans le Recyclage de papier, Production des Sacs, Cartons et Emballages écologiques, l'Éco-innovation |
 |[SCoPE](https://twitter.com/we_SCoPE)| Startup qui veut connecter de façon efficace et efficiente le problème des déchets plastiques aux solutions existantes dans un contexte où le tri sélectif n’est pas appliqué. |
-|[Togo RECYCLING]()| Startup social dans le recyclage de déchets. |
+|[Togo Recycling]()| Startup social dans le recyclage de déchets. |
 
 <div id='incubateurs'/>
 
@@ -165,7 +165,7 @@
 ## Communautés
 - **Libra Web** : Libraweb Togo est une association de promotion numérique à la base et dont les objectifs sont de -créer et renfoncer les liens de fraternités entre les jeunes - Aider la jeunesse...
 - **Opendata Tg** : Lutter pour un accès de tous à l'information.
-- **Minodoo** : Fabrique d'innovations sociales, communauté de co-workers, tiers-lieu nomade au Togo, http://minodoo.com/
+- **Minodoo** : Fabrique d'innovations sociales, communauté de co-workers, tiers-lieu Site webade au Togo, http://minodoo.com/
 - **OSM Togo**
 - [**GDG Lome**](https://www.meetup.com/fr-FR/GDG-Lome)
 # Espace de Coworking
