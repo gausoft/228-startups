@@ -9,8 +9,9 @@
 * [Agriculture](#agriculture)
 * [Commerce](#commerce)
 * [FinTech](#fintech)
+* [FoodTech](#foodtech)
 * [Éducation](#education)
-* [Informatique/Digital](#informatique)
+* [Digital](#informatique)
 * [Justice](#justice)
 * [Santé](#santé)
 * [Tourisme](#tourisme)
@@ -24,90 +25,123 @@
 <div id='agriculture'/>
 
 # Agriculture
-| Nom | Description | Site web | Liens |
-|----------|:-------------:|------:|:----| 
-| **Soja Invest**| ... | ... | ... |
+>Les startups qui innovent en agriculture au Togo 
+
+| Site web | Description |
+| ----------------------- | ------------------ |
+| [e-Agribusiness](https://e-agribusiness.tg)|  Plateforme de mise en relation des acteurs du secteur agricole pour désenclaver certains agriculteurs. |
+| [AGRIBUSINESS DATA](https://agribusinessdata.com)| Plateforme numérique de collecte, de traitement et d’analyse de données dans le domaine agricole. |
+| [AgriCol](https://www.facebook.com/AgriColFinance)| Plateforme de mise en relation des petits exploitants agricoles avec les investisseurs. |
+| [Urbanattic](https://twitter.com/urbanattic_)| Une plateforme qui promeut l'agriculture biologique urbaine de proximité en mettant un accent sur la technologie pour optimiser la production. |
+| [Choco Togo](https://www.chocotogo.com)| Start-up spécialisée dans la production du chocolat bio en mettant en avant les méthodes traditionnelles !|
+| [Klingo](https://bit.ly/2T6E2O2) | Klingo veut mécaniser l'agriculture togolaise |
+| [AgriSoft](https://agrisoft.tg)| Plateforme web et mobile de location de matériel agricole |
+
+
+<div align="right">
+    <b><a href="#domaines">↥ Aller aux domaines</a></b>
+</div>
 
 <div id='commerce'/>
 
 # Commerce
-| Nom | Description | Site web | Liens |
-|----------|:-------------:|------:|:----| 
-| **Sigab-Corp**| ... | ... | ... |
+| Nom | Description |
+|------------|----------|
+|[CarAsigbe](https://www.semoa-group.com)| Premier portail de petites annonces automobiles |
 
 <div id='fintech'/>
 
 # FinTech
-| Nom | Description | Site web | Liens |
-|----------|:-------------:|------:|:----| 
+| Nom | Description |
+|------------|----------|
+|[Semoa-Togo](https://www.semoa-group.com)| Semoa-Togo: le premier site de recharge de crédit en ligne au Togo |
+
+<div id='foodtech'/>
+
+# FoodTech
+| Nom | Description
+| ---------- | ------------- | 
+| [Kaba](http://www.kaba-delivery.com/)| KABA Delivery est une startup de Livraison de menus restaurants à la demande à Lomé et ses environs.|
+| [Delivroum](https://delivroum.com)| Première plateforme de livraison de repas à la demande dans la capitale Togolaise|
+
+<div align="right">
+    <b><a href="#domaines">↥ Aller aux domaines</a></b>
+</div>
 
 <div id='education'/>
 
 # Éducation
-| Nom | Description | Site web | Liens |
-|----------|:-------------:|------:|:----| 
-| **OpenCode Academy** | L'école libre de @woelab visant à préparer les enfants à la #RevolutionNumérique au travers de cours, formations et #hackathons. |http://www.oca.woelab.tg| x |
-| **OkpaFaces** | Développement des solutions éducatives web et mobiles au grand public et sur mesure. |http://www.okpafaces.com| x |
-| **Suisco**| SuiSco vise l’amélioration des modes de communication entre l’école, la famille et les apprenants en utilisant le canal des nouvelles technologies en vue de faciliter la gestion collégiale de la vie scolaire et universitaire.| http://www.suisco.net | x |
-| **Zonoa**| ... | https://zonoa.net | x |
-| **Top Fournituresn Services**| ... | ... | https://www.facebook.com/TopFournitures/ |
+| Nom | Description
+|----------|-------------| 
+|[OpenCode Academy](http://www.oca.woelab.tg) | L'école libre de @woelab visant à préparer les enfants à la #RevolutionNumérique au travers de cours, formations et #hackathons. |
+|[OkpaFaces](http://www.okpafaces.com) | Développement des solutions éducatives web et mobiles au grand public et sur mesure. |
+|[Suisco](http://www.suisco.net)| SuiSco vise l’amélioration des modes de communication entre l’école, la famille et les apprenants en utilisant le canal des nouvelles technologies en vue de faciliter la gestion collégiale de la vie scolaire et universitaire.|
+|[Zonoa](https://zonoa.net)| Startup qui réinvent la nouvelle façon d’apprendre en conciliant apprentissage et divertissement grâce au numérique. |
+|[Top Fournitures Services](https://www.topfournitures.com/)| Startup dans l'e-commerce des fournitures scolaires et de bureau, mobiliers de bureau, papiers et matériels informatiques au Togo |
+
+<div align="right">
+    <b><a href="#domaines">↥ Aller aux domaines</a></b>
+</div>
 
 <div id='informatique' />
 
-# Informatique/Digital
-| Nom | Description | Site web | Liens |
-|----------|:-------------:|------:|:----| 
-| **BiDif** | Prestation de services en développement web et mobile.| ... | ... |
-| **BigApp**| Prestation de services en développement web et mobile. | ... | ... |
-| **DCN Technologies**| Prestation de services en développement web et mobile. | ... | ... |
-| **Nativ**| Agence de communication visant à pousser l'Afrique dans la course à la digitalisation. | https://nativ.woelab.tg | x |
-| **ORASTEC**| Prestation de services en développement web et mobile. | ... | ... |
-| **JetSolutions**| ... | ... | ... |
-| **Nutata**| Agence dans le domaine de la communication digitale. | ... | ... |
-| **Open SDF**| Startup dans la prestation de services numériques axés à 100% sur des solutions libres (open-source) à l'endroit des entreprises & des particuliers. | https://opensdf.tk/ | https://twitter.com/OpenSDF228 |
-| **Maji Technologies**| ... | ... | ... |
-| **Fortitude Vision**| ... | ... | ... |
-| **Semoa-Togo**| ... | ... | ... |
+# Digital
+| Nom | Description
+|----------|------------| 
+|[BiDif]() | Prestation de services en développement web et mobile.|
+|[DCN Technologies]()| Prestation de services en développement web et mobile. |
+|[ORASTEC]()| Prestation de services en développement web et mobile. |
+|[Nutata]()| Agence dans le domaine de la communication digitale. |
+|[Open SDF](https://opensdf.tk)| Startup dans la prestation de services numériques axés à 100% sur des solutions libres (open-source) à l'endroit des entreprises & des particuliers. |
+| [Nativ](https://nativ.woelab.tg/) | Startup de prestation de services en informatique (Stratégie & Stimulation Numérique) |
+| [Pimpio studio](https://twitter.com/LimpioStudio) | Studio de conception de jeux vidéos  auteur du premier #JeuVidéo togolais #TheBoyInSavannah |
+
+<div align="right">
+    <b><a href="#domaines">↥ Aller aux domaines</a></b>
+</div>
 
 <div id='justice'/>
 
 # Justice
-| Nom | Description | Site web | Liens |
-|----------|:-------------:|------:|:----| 
+<!-- | Nom | Description |
+|----------|------------| -->
 
 <div id='sante'/>
 
 # Santé
-| Nom | Description | Site web | Liens |
-|----------|:-------------:|------:|:----| 
-| **DashMake**| ... | ... | ... |
+> Les startups qui opèrent dans le secteur de la santé
+
+| Nom | Description |
+|----------|:-------------:| 
+| [SOS-System](https://twitter.com/sossystem2)| Système de signalisation, géolocalisation et gestion des sinistrateurs & conseiller en santé.  |
+| [eConvivial](https://www.econvivial.org/)|Application en eSanté au Togo offrant l'Assistance en ligne, le suivi du Cycle Menstruel, de la Contraception et de la Grossesse et la Consultation en ligne |
+
+<div align="right">
+    <b><a href="#domaines">↥ Aller aux domaines</a></b>
+</div>
 
 <div id='tourisme'/>
 
 # Tourisme
-| Nom | Description | Site web | Liens |
-|----------|:-------------:|------:|:----| 
+<!-- | Nom | Description | Site web | Liens |
+|----------|:-------------:|------:|:----|  -->
 
 <div id='transport'/>
 
 # Transport
-| Nom | Description | Site web | Liens |
-|----------|:-------------:|------:|:----| 
+| Nom | Description
+|----------|-------------|
+| [Gozem](https://gozem.co) | Gozem est une plateforme technologique de transport (auto, moto, tricylces) pour l'Afrique occidentale et centrale francophone. |
+
 
 <div id='urbanisme'/>
 
 # Urbanisme
-| Nom | Description | Site web | Liens |
-|----------|:-------------:|------:|:----| 
-| **Civic bag**| ... | ... | x |
-| **SCoPE**| Startup qui veut connecter de façon efficace et efficiente le problème des déchets plastiques aux solutions existantes dans un contexte où le tri sélectif n’est pas appliqué. | ... | https://twitter.com/we_SCoPE |
-| **Togo RECYCLING**| Startup social dans le recyclage de déchets. | ... | ... |
-| **Urbanattic**| Startup en biotechnologie proposant de mettre à profit les espaces délaissés dans les milieux urbains pour en faire des jardins bios où sont cultivés fruits, légumes etc.| ... | https://twitter.com/urbanattic_ |
-
-# Etra
-| Nom | Description | Site web | Liens |
-|----------|:-------------:|------:|:----| 
-| **LITO GROUP**| Une agence offrant des services en communication, développement d'applications, commerce, éducation, etc. | ... | x |
+| Nom | Description
+|----------|-------------|
+|[Civic bag]()| CivicBag est spécialisé dans le Recyclage de papier, Production des Sacs, Cartons et Emballages écologiques, l'Éco-innovation |
+|[SCoPE](https://twitter.com/we_SCoPE)| Startup qui veut connecter de façon efficace et efficiente le problème des déchets plastiques aux solutions existantes dans un contexte où le tri sélectif n’est pas appliqué. |
+|[Togo RECYCLING]()| Startup social dans le recyclage de déchets. |
 
 <div id='incubateurs'/>
 
@@ -138,3 +172,4 @@
 - [Tempo Coworking Space](https://www.tempo-coworking.com)
 - [Minodoo](http://minodoo.com/)
 - [Africa coworkers](https://africacoworkers.org)
+- [Spire Coworking](http://spire.woelab.tg/)
