@@ -6,8 +6,8 @@
 🖖🏿 Tout ce qui est écrit ci dessous viens de mes connaissances et quelques recherches sur les réseaux sociaux. Je ne suis ni un professionel ni un expert, mais un passioné 🤓. Tout le monde peut ouvrir une discussion dans la partie issue, faire une pull request si quelque chose doit être modifié ou ajouté.
 
 # Domaines
-* [Agriculture](#agriculture)
-* [Commerce](#commerce)
+* [AgroBusiness](#agrobusiness)
+* [E-Commerce](#e-commerce)
 * [FinTech](#fintech)
 * [FoodTech](#foodtech)
 * [Éducation](#education)
@@ -22,10 +22,10 @@
 
 -------------
 
-<div id='agriculture'/>
+<div id='agrobusiness'/>
 
-# Agriculture
->Les startups qui innovent en agriculture au Togo 
+# Agrobusiness
+>Les startups qui innovent en agriculture et en agroalimentaire au Togo 
 
 | Site web | Description |
 | ----------------------- | ------------------ |
@@ -42,9 +42,9 @@
     <b><a href="#domaines">↥ Aller aux domaines</a></b>
 </div>
 
-<div id='commerce'/>
+<div id='e-commerce'/>
 
-# Commerce
+# E-Commerce
 | Site web | Description |
 |------------|----------|
 |[CarAsigbe](https://www.semoa-group.com)| Premier portail de petites annonces automobiles |
